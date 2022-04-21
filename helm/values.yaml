@@ -11,7 +11,7 @@ nfs:
   mountOptions: null
   path: /nfs2
   reclaimPolicy: Retain
-  server: 35.209.162.27
+  server: 34.123.14.28
   volumeName: nfs-subdir-external-provisioner-root
 nodeSelector: {}
 podAnnotations: {}
